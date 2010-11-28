@@ -1,0 +1,6 @@
+This is a simple bash script for adding Replay-gain data to flac files.
+
+You will need: find, metaflac, dirname
+
+usage: execute this script in root of your music dir and it will add album
+Replay-gain data for all your flac files.
